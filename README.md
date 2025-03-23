@@ -1,5 +1,6 @@
 # Ivy_Homes
 Online Assessment of Ivy_Homes
+(Please visit the pdf for better experience)
 
 1. The working code is present in the Ivy_Homes folder present in this Repo.
    Also, this folder consist 3 sub-folders named v1, v2 and v3, which contains code with their respective endpoints.
